@@ -1,0 +1,9 @@
+# DO NOT ignore .env for local builds
+# node_modules and dist are still ignored
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+Dockerfile.dev
+*.log
